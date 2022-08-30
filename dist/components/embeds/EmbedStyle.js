@@ -32,14 +32,6 @@ const EmbedStyle = (_a) => {
           margin: 0 !important;
           padding: 0 !important;
         }
-
-        .rsme-embed.rsme-facebook-embed .fb-post iframe {
-          width: 100% !important;
-        }
-
-        .rsme-embed.rsme-facebook-embed .fb-post span {
-          width: 100% !important;
-        }
       `));
 };
 exports.EmbedStyle = EmbedStyle;
